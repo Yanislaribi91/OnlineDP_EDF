@@ -1,5 +1,5 @@
 # OnlineDP_EDF
-Code des expériences de mon stage de M2  réalisé à EDF R&amp;D Lab Paris-Saclay sous la direction de Margaux Brégère portant sur la publication continue de courbes de consommation agrégées sous confidentialité différentielle (DP). Les données utilisées sont disponibles à l'adresse suivante : 
+Code des expériences de mon stage de M2  réalisé à EDF R&amp;D Lab Paris-Saclay sous la direction de Margaux Brégère portant sur la publication continue de courbes de consommation agrégées sous confidentialité différentielle (DP). Les données utilisées sont disponibles à l'adresse suivante : https://zenodo.org/records/15232742. Le modèle de diffusion ayant permis de générer ces données synthétiques est décrit dans le papier suivant :  https://arxiv.org/html/2504.14046.
 
 ## Arborescence
 
