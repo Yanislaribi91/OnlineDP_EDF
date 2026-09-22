@@ -6,7 +6,7 @@ Code des expériences de mon stage de M2  réalisé à EDF R&amp;D Lab Paris-Sac
 ```
 projet/                        # = onlinedp_stage26/
 ├── README.md
-├── pyproject.toml             # `pip install -e .` depuis ce dossier (optionnel)
+├── pyproject.toml             
 ├── online_dp/                 # le package
 │   ├── __init__.py
 │   ├── config.py              # Config (chemins, seeds, params) + clés de cache
